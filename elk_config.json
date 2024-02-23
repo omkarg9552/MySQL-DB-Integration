@@ -1,0 +1,10 @@
+{
+    "elasticsearch": {
+      "node": "http://localhost:9200",
+      "auth": {
+        "username": "elastic",
+        "password": "GOoqVZD+nSvi=PAknzHL"
+      }
+    }
+  }
+  
